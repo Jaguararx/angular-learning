@@ -1,0 +1,42 @@
+[
+  {
+    "playerId": 1,
+    "playerName": "Rob Williams",
+    "playerTeam": 1,
+    "description": "A former pizza delivery boy from Atlanta who knows every shortcut in Atlanta.",
+    "games": 3,
+    "time": 3.2
+  },
+  {
+    "playerId": 2,
+    "playerName": "Roy Johns",
+    "playerTeam": 1,
+    "description": "An older man and former car salesman.",
+    "games": 4,
+    "time": 4.2
+  },
+  {
+    "playerId": 5,
+    "playerName": "Matt Hammer",
+    "playerTeam": 2,
+    "description": "A former civil rights attorney who is extremely protective of her younger sister Amy.",
+    "games": 4,
+    "time": 4.8
+  },
+  {
+    "playerId": 8,
+    "playerName": "Walt Saw",
+    "playerTeam": 3,
+    "description": "A former sheriff's deputy from a small Georgia town",
+    "games": 2,
+    "time": 3.7
+  },
+  {
+    "playerId": 10,
+    "playerName": "Rick Grimes",
+    "playerTeam": 4,
+    "description": "Smart, calm, just, a sharpshooter, and a good friend, husband and father",
+    "games": 5,
+    "time": 4.6
+  }
+]
